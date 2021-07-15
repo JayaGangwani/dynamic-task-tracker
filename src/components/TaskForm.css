@@ -1,0 +1,63 @@
+.input-md {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    
+  }
+
+  .input-xs {
+    width: 14.5%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    
+  }
+
+  .input-sm {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;   
+  }
+
+.input-lg {
+    width: 76%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box; 
+}
+
+.task-button{
+    width: 76%;
+    padding: 12px 20px;
+    margin: 5px 5px 5px 5px;
+    box-sizing: border-box;
+    background-color: red; 
+    color : white;
+    border : none;
+    cursor: pointer;
+}
+
+.invalid-input {
+  border: 3px solid red;
+  outline:none;
+}
+
+.text-warning {
+  color:red;
+}
+
+.display-inline{
+  display: inline;
+}
+
+.customDatePickerWidth input[type="text"] {
+  padding: 12px 10px;
+  margin-left: 38px;
+}
+
+h1{
+  width:70%;
+  text-align: center;
+}
